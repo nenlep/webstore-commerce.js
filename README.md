@@ -1,3 +1,8 @@
+A online fully functional E-commerce store made with ReactJS, Material UI, and uses created endpoints from commerce-js for the products. Live link on https://webstore-commercejs.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
