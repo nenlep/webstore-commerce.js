@@ -1,4 +1,4 @@
-A online fully functional E-commerce store made with React Hooks,React Router, Material UI, and uses created endpoints from commerce-js for the products. Live link on [netlify](https://webstore-commercejs.netlify.app/)
+An online fully functional E-commerce store made with React Hooks,React Router, Material UI, and uses created endpoints from commerce-js for the products. Live link on [netlify](https://webstore-commercejs.netlify.app/).
 
 
 
